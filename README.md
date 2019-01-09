@@ -16,8 +16,8 @@
 	'''
 	main(string [] args){
 		child juanjuan = new Child();
-		juanjuan.say("mo mo")
-		juanjuan.eat("anything")
+		juanjuan.say("mo mo");
+		juanjuan.eat("anything");
 		while(true){
 			if (juanjuan.need(optimizer)){
 				if (optimizer.getFamily().equals("baoma")){
